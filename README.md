@@ -103,7 +103,7 @@ https://www.linkedin.com/in/chaymae-bennouri
 https://github.com/Chaymaebennouri
 
 **Portfolio:**  
-https://chaymaebennouri.github.io/chaymaebennouri/
+https://chaymaebennouri.github.io/portfolio/
 
 
 ---
