@@ -12,8 +12,7 @@ It reflects my progression from software development and data analytics to AI re
 
 Visit the portfolio:
 
-https://chaymaebennouri.github.io/chaymaebennouri/
-
+https://chaymaebennouri.github.io/portfolio/
 
 ## About Me
 
